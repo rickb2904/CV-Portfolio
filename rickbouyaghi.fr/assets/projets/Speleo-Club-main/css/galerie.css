@@ -1,0 +1,29 @@
+@CHARSET "UTF-8";
+
+/*Styles de la zone galerie
+-------------------------------------------------------*/
+.photo {
+	display:inline-block;
+	position:relative;
+	border:2px solid #B2CC33;
+	background:#fff;
+	margin:5px;
+	padding:5px;
+	
+}
+
+.photo div {
+	overflow:hidden;
+}
+	
+.photo p {
+	text-align:center;
+	background:#789;
+	margin:0px;
+	margin-top:5px;
+}
+
+.photo img {
+	clear:right;
+}
+

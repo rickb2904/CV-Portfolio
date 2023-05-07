@@ -1,0 +1,65 @@
+@CHARSET "UTF-8";
+
+body {
+	background:url('images/bobine-2.gif') no-repeat left top 10px grey;
+}
+
+#bandeau {
+	display:none;
+}
+#bandeau h1 {
+	font-size:300%;
+}
+#bandeau h2 {
+	font-size:200%;
+}
+
+#menu a {
+	font-size:150%;
+	color:grey;
+	background:white;
+	border-radius:10px;
+	margin-right:10px;
+	padding:5px 20px;
+	text-decoration:none;
+}
+
+#menu #page-actu {
+	color:black;
+	background:#ddd;
+
+}
+
+
+#corps {
+background:url('images/bobine-1.gif') no-repeat right bottom 20px;
+}
+
+#page {
+	margin:2%;
+	margin-left:20%;
+	margin-right:20%;
+	padding:10px;
+	border-radius:10px;
+	background:#ddd;
+}
+
+#page img {
+	float:left;
+}
+
+#pied {
+	margin-left:20%;
+	margin-right:10%;
+}
+
+#pied p {
+	color:white;
+	font-weight:bold;
+	text-align:center;
+}
+
+#pied a {
+	display:none;
+}
+

@@ -1,0 +1,23 @@
+.gras
+{
+	font-weight: bold;
+}
+.ital
+{
+	font-style: italic;
+}
+.desc
+{
+	text-align: justify;
+}
+.div-c
+{
+	text-align: center;
+}
+h1
+{
+	text-align: center;
+}
+p.titre{
+	font-weight: bold;
+}

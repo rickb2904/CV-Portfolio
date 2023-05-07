@@ -28,6 +28,11 @@ a {
   text-decoration: none;
 }
 
+a.linkk:hover {
+  color: #6d17c4;
+  text-decoration: none;
+}
+
 a:hover {
   color: #37b3ed;
   text-decoration: none;
@@ -86,7 +91,7 @@ h1, h2, h3, h4, h5, h6 {
 #header .profile img {
   margin: 30px auto;
   display: block;
-  width: 90px;
+  width: 105px;
   border: 3px solid #2c2f3f;
 }
 #header .profile h1 {
@@ -574,9 +579,6 @@ section {
   padding: 0;
 }
 
-/*--------------------------------------------------------------
-# Services
---------------------------------------------------------------*/
 .services .icon-box {
   margin-bottom: 20px;
 }
@@ -621,9 +623,7 @@ section {
   font-size: 14px;
 }
 
-/*--------------------------------------------------------------
-# Testimonials
---------------------------------------------------------------*/
+
 .testimonials .testimonials-carousel, .testimonials .testimonials-slider {
   overflow: hidden;
 }
@@ -699,9 +699,7 @@ section {
   background-color: #149ddd;
 }
 
-/*--------------------------------------------------------------
-# Contact
---------------------------------------------------------------*/
+
 .contact {
   padding-bottom: 130px;
 }
@@ -864,9 +862,7 @@ section {
   }
 }
 
-/*--------------------------------------------------------------
-# Breadcrumbs
---------------------------------------------------------------*/
+
 .breadcrumbs {
   padding: 20px 0;
   background: #f9f9f9;
@@ -905,9 +901,6 @@ section {
 }
 
 
-/*--------------------------------------------------------------
-# Footer
---------------------------------------------------------------*/
 #footer {
   padding: 15px;
   color: #f4f6fd;
@@ -922,6 +915,7 @@ section {
 #footer .copyright {
   text-align: center;
 }
+
 #footer .credits {
   padding-top: 5px;
   text-align: center;
